@@ -5,3 +5,4 @@ Team:
 Aayan Lakhani
 
 [expose.html](expose.html)
+[explore.html](explore.html)
